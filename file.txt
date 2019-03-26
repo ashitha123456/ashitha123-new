@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 1C66-AF77
+
+ Directory of C:\Users\Admin\Desktop\newgit
+
+26-03-2019  11:22    <DIR>          .
+26-03-2019  11:22    <DIR>          ..
+26-03-2019  11:22               119 file.txt
+               1 File(s)            119 bytes
+               2 Dir(s)  34,913,828,864 bytes free
